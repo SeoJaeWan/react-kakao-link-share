@@ -1,0 +1,26 @@
+{
+  "name": "react-kakao-link-share",
+  "version": "0.0.1",
+  "description": "use kakao link share in react web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeoJaeWan/react-kakao-link-share.git"
+  },
+  "keywords": [
+    "kakao",
+    "link",
+    "share",
+    "react",
+    "sns"
+  ],
+  "author": "seojaewan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SeoJaeWan/react-kakao-link-share/issues"
+  },
+  "homepage": "https://github.com/SeoJaeWan/react-kakao-link-share#readme"
+}
